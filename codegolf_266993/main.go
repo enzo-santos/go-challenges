@@ -26,9 +26,3 @@ func A020985(n int) int {
         return -1
     }
 }
-
-func main() {
-    for i := 0; i < 20; i++ {
-        fmt.Printf("%d -> %d\n", i, A020985(i))
-    }
-}
