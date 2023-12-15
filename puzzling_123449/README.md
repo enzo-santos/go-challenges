@@ -1,7 +1,7 @@
 # puzzling_123449
 
 - Title: ["Ended up with 'empathise'"](https://puzzling.stackexchange.com/questions/123449)
-- Posted at [Code Golf Stack Exchange](https://puzzling.stackexchange.com)
+- Posted at [Puzzling Stack Exchange](https://puzzling.stackexchange.com)
 - Posted by user [@pmacfarlane](https://puzzling.stackexchange.com/users/86175)
 - Posted on December 1, 2023
 
